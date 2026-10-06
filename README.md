@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Anand Kumar Singh 👋
 
-<!--
-**anandkumarsingh7/anandkumarsingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Software Development Learner | 🚀 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a second-year Computer Science & Engineering student interested in software development, problem-solving, and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies
+
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+- AngularJS
+- Git & GitHub
+- AWS
+
+## 📚 Currently Learning
+
+- Java
+- Data Structures & Algorithms (DSA)
+- Operating Systems
+- Linux
+- Computer Architecture & Microprocessor
+
+## 🚀 Projects
+
+- ResumeLens
+- More projects coming soon...
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/anand-kumar-singhh07/
+- GitHub: https://github.com/anandkumarsingh7
